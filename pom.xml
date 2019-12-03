@@ -49,6 +49,7 @@
     <animal-sniffer.signature.version>1.0</animal-sniffer.signature.version>
     <version.animal-sniffer.plugin>1.18</version.animal-sniffer.plugin>
     <version.maven-license.plugin>2.6</version.maven-license.plugin>
+    <skipTests>true</skipTests>
   </properties>
 
   <dependencyManagement>
