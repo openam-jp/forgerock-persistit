@@ -10,7 +10,7 @@
 
   <groupId>jp.openam.commons</groupId>
   <artifactId>forgerock-persistit</artifactId>
-  <version>4.3.2-SNAPSHOT</version>
+  <version>4.3.2</version>
   <packaging>pom</packaging>
 
   <name>ForgeRock Persistit</name>
@@ -40,6 +40,7 @@
     <developerConnection>scm:git:https://github.com/openam-jp/forgerock-persistit.git</developerConnection>
     <connection>scm:git:git@github.com:openam-jp/forgerock-persistit.git</connection>
     <url>https://github.com/openam-jp/forgerock-persistit</url>
+    <tag>4.3.2</tag>
   </scm>
 
   <properties>
