@@ -120,7 +120,7 @@
             <systemPropertyVariables>
               <buildDirectory>${project.build.directory}</buildDirectory>
             </systemPropertyVariables>
-            <argLine>-Drmiport=${rmiport}</argLine>
+            <argLine>${jacocoArgs} -Drmiport=${rmiport}</argLine>
             <includes>
               <include>**/*Test.java</include>
               <include>**/*Test?.java</include>
